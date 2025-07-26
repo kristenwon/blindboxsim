@@ -48,7 +48,7 @@ export default function HironoResult() {
                     className="bg-[#685050] px-8 py-2 flex items-center justify-center text-white rounded-full font-yuji"
                     onClick={() => router.push('/hirono-card')}
                 >
-                    Card
+                    <p className="mb-1">Card</p>
                 </button>
                 <button
                     className="bg-[#685050] px-8 py-2 flex items-center justify-center text-white rounded-full font-yuji"
@@ -56,7 +56,7 @@ export default function HironoResult() {
                         router.replace('/');
                     }}
                 >
-                    New
+                    <p className="mb-1">New</p>
                 </button>
             </div>
         </div>

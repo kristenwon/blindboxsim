@@ -94,7 +94,7 @@ export default function HironoCard() {
                     className="bg-[#685050] px-8 py-2 flex items-center justify-center text-white rounded-full font-yuji"
                     onClick={() => router.replace("/hirono-result")}
                 >
-                    Back
+                    <p className="mb-1">Back</p>
                 </button>
             </div>
         </div>
