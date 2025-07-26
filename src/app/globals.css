@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+@font-face {
+  font-family: "5th Avenue";
+  src: url("/fonts/5thAvenue.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Yuji Syuku";
+  src: url("/fonts/YujiSyuku-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.slick-prev,
+.slick-next {
+  width: 50px;
+  height: 50px;
+  z-index: 10;
+}
+
+.slick-prev {
+  left: -90px; /* adjust if necessary */
+}
+
+.slick-next {
+  right: -90px; /* adjust if necessary */
+}
+
+.slick-prev:before,
+.slick-next:before {
+  content: "";
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slick-prev:before {
+  background-image: url("/images/left-arrow.png");
+}
+
+.slick-next:before {
+  background-image: url("/images/right-arrow.png");
+}
+
+.perspective {
+  perspective: 1000px;
+}
+
+.transform-style {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}

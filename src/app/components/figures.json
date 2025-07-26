@@ -1,0 +1,90 @@
+[
+    {
+        "hironos": [
+            {
+                "name": "The King",
+                "description": "It is an order",
+                "image": "/images/hirono/the-king.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Conceited Man",
+                "description": "Do me this kindness. Admire me just the same",
+                "image": "/images/hirono/the-conceited-man.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Tippler",
+                "description": "So that I may forget. Forget that I am ashamed",
+                "image": "/images/hirono/the-tippler.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Snake",
+                "description": "It is also lonely among men",
+                "image": "/images/hirono/the-snake.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Businessman",
+                "description": "I own them. It does me the good of making me rich",
+                "image": "/images/hirono/the-businessman.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Lamplighter",
+                "description": "Those are the orders",
+                "image": "/images/hirono/the-lamplighter.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Switchman",
+                "description": "No one is ever satisfied where he is",
+                "image": "/images/hirono/the-switchman.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Fox",
+                "description": "What is essential is invisible to the eye",
+                "image": "/images/hirono/the-fox.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Rose",
+                "description": "Of course I love you",
+                "image": "/images/hirono/the-rose.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Little Prince",
+                "description": "There is a flower... I think that she has tamed me...",
+                "image": "/images/hirono/the-littleprince.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Merchant",
+                "description": "With these pills, you save 53 minutes in every week",
+                "image": "/images/hirono/the-merchant.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Geographer",
+                "description": "Because they are ephemeral",
+                "image": "/images/hirono/the-geographer.png",
+                "rarity": "1/12"
+            },
+            {
+                "name": "The Pilot",
+                "description": "All grown-ups were children first. (But few of them remember it)",
+                "image": "/images/hirono/the-pilot.png",
+                "rarity": "1/72"
+            },
+            {
+                "name": "The Little Prince (Special Edition)",
+                "description": "The stars are beautiful. Because of a flower that cannot be seen",
+                "image": "/images/hirono/the-littleprince-supersecret.png",
+                "rarity": "1/144"
+            }
+        ]
+    }
+]
